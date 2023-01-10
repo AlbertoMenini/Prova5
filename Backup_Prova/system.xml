@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SystemProperties>
-  <SystemName>IRB1200_5_90_4</SystemName>
+  <SystemName>IRB1200_5_90_5</SystemName>
   <SerialNo>VIRTUAL_USE</SerialNo>
   <UsedMedia>
     <Media path="C:\Users\MeniniA\AppData\Local\ABB\RobotWare\RobotWare_6.13.4007" name="RobotWare" version="6.13.4007">
@@ -10,6 +10,8 @@
     <Option descr="RobotWare Base">
     </Option>
     <Option descr="English">
+    </Option>
+    <Option descr="623-1 Multitasking">
     </Option>
   </ControlModule>
   <DriveModule>

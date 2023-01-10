@@ -1,8 +1,8 @@
 #
 # Generated backup file, do not edit.
 #
-# Originally at: C:\Users\MeniniA\Documents\RobotStudio\Virtual Controllers\TEMP\eceafe61-c6a9-422a-8678-0ed15c858065\backup.066188
-# 2023-01-10  15:16:22
+# Originally at: C:\Users\MeniniA\Documents\RobotStudio\Virtual Controllers\TEMP\a9685112-e77b-4176-8447-73835000db46\backup.079800
+# 2023-01-10  16:07:43
 #
 >>SYSTEM_ID:
 VIRTUAL_USE
@@ -12,6 +12,7 @@ RobotWare Version: 6.13.04.00
 
   RobotWare Base
   English
+  623-1 Multitasking
   Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID
   ADU-790A in position X3
   ADU-790A in position Y3
